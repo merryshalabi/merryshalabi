@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=samihwar&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=merryshalabi&&style=flat-square" align="center" />
 </div>
