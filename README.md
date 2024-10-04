@@ -70,7 +70,7 @@ A robust system built using **Java** to support community volunteer management a
 Implemented AVL trees using C to demonstrate my proficiency in data structures and algorithms.
   -->
 
----
+
 
 
 
@@ -87,6 +87,7 @@ Implemented AVL trees using C to demonstrate my proficiency in data structures a
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 5px;" />
   </a>
 </div>
+<br><br> 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=merryshalabi&&style=flat-square" align="center" />
