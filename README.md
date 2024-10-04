@@ -24,7 +24,6 @@ A hackathon project written in JavaScript, developed as a collaborative effort t
 ## Skills
 - **Languages**: C, C++, Java, JavaScript, Python
 - **Web Development**: React, HTML, CSS
-- **Computer Graphics**: WebGL, Babylon.js
 - **Databases**: MongoDB, SQL
 
 ## Contact
