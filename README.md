@@ -20,7 +20,7 @@ Projects focused on operating system concepts like memory management, synchroniz
 A hackathon project written in JavaScript, developed as a collaborative effort to create innovative solutions in a short timeframe.
 
 ## Skills
-- **Languages**: C, C++, JavaScript, Python
+- **Languages**: C, C++, Java, JavaScript, Python
 - **Web Development**: React, HTML, CSS
 - **Computer Graphics**: WebGL, Babylon.js
 - **Databases**: MongoDB, SQL
