@@ -6,6 +6,8 @@ I'm Merry Shalabi, a Computer Science student at the University of Haifa. I am p
 
 ## Projects
 Here are some of my highlighted projects:
+### [ATIS - All Together Information System](https://github.com/aseel1/Prototype)
+A software engineering project aimed at helping communities manage volunteer tasks and handle emergency situations. It includes features like user registration and authentication, task management, and emergency reporting.
 
 ### [Data Structures - AVL](https://github.com/merryshalabi/Data_Structures-_AVL)
 A C-based implementation of AVL trees, showcasing various data structure manipulations and operations.
