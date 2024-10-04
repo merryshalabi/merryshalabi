@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 # Merry Shalabi
 
 ## About Me
@@ -33,7 +31,7 @@ A hackathon project written in JavaScript, developed as a collaborative effort t
 
 Feel free to explore my projects and reach out if you'd like to collaborate or discuss potential opportunities!
 
--->
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=merryshalabi&&style=flat-square" align="center" />
 </div>
